@@ -1,0 +1,42 @@
+nav 
+{ 
+	padding: 2px 10px 0px;
+	margin: auto;
+	font:bold;
+	background: #3D6FF7;
+	width: 100%; 
+	border-bottom: 4px solid #666666;
+}
+nav ul 
+{
+	text-align: center; 
+	margin: 0; 
+	padding-top: 3px; 
+	padding-bottom: 3px;
+}
+nav li
+{
+	display: inline; 
+	list-style: none;
+	
+}
+nav a 
+{	 
+	text-decoration:none;
+	padding: 2px 10px;
+	border: 2px solid #000; 
+}
+nav a:link 
+{
+	color: #FFFFFF;
+}
+nav a:visited 
+{
+	color: #A1A1A1;
+}
+nav a:hover
+{
+	color: #FF00E5;
+	font-weight:bold;
+	background-image: url('clouds.jpg');
+}
